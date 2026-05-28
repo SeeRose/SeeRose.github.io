@@ -31,8 +31,6 @@ asciidoc:
     experimental: true@
     idprefix: ''
     idseparator: '-'
-    urls:
-     edit_url: false
 
 output:
   dir: ./build/site
