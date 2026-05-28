@@ -1,0 +1,11 @@
+name: portfolio
+title: "Nilüfer ] [ Lian Keller"
+url: https://seerose.github.io
+version: ~
+start_page: index.adoc
+nav:
+  - modules/ROOT/nav.adoc
+  - modules/arbeiten/nav.adoc
+  - modules/bibliothek/nav.adoc
+  - modules/prozess/nav.adoc
+  - modules/ueber/nav.adoc

@@ -5,15 +5,16 @@ site:
   title: "Nilüfer ] [ Lian Keller — Portfolio"
   # Diese URL musst du anpassen, sobald du eine eigene Domain hast oder
   # weißt, unter welcher GitHub-Pages-URL die Site läuft.
-  # Beispiel ohne eigene Domain: https://seerose.github.io/portfolio
-  url: https://example.com
+  # Beispiel ohne eigene Domain: https://seerose.github.io
+  url: https://seerose.github.io
   start_page: portfolio::index.adoc
 
 content:
   sources:
     - url: ./
       branches: HEAD
-      start_paths: docs
+      start_paths:
+       - docs
 
 # Standard-UI von Antora. Solange du noch kein eigenes UICON-UI-Bundle hast,
 # bleibt diese URL stehen. Sobald dein UI-Bundle steht, ersetzt du die URL durch:
