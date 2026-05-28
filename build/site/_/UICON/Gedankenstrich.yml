@@ -1,6 +1,0 @@
-extends: existence
-message: "Gedankenstrich (em dash) prüfen — im Deutschen oft falsch eingesetzt. Erlaubt nur als Halbgeviertstrich (–) mit Leerzeichen."
-level: suggestion
-nonword: true
-tokens:
-  - '—'

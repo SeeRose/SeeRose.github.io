@@ -1,4 +1,0 @@
-# UICON-Styleguide für Vale
-# Eigene, projektspezifische Regeln. Bei Bedarf erweitern oder Regeln deaktivieren.
-
-vale_version: '>=3.0.0'
