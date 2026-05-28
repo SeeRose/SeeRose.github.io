@@ -1,0 +1,15 @@
+{
+  "name": "nuk-portfolio",
+  "version": "0.1.0",
+  "description": "Portfolio von Nilüfer ] [ Lian Keller — Technische Redaktion, UX und Service Design",
+  "private": true,
+  "scripts": {
+    "build": "antora --fetch antora-playbook.yml",
+    "build:local": "antora antora-playbook.yml",
+    "clean": "rm -rf build"
+  },
+  "devDependencies": {
+    "@antora/cli": "3.1.14",
+    "@antora/site-generator": "3.1.14"
+  }
+}

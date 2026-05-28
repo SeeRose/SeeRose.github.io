@@ -1,0 +1,22 @@
+= Prozess
+:description: Methoden, die meine Arbeit in Technischer Redaktion, UX und Service Design tragen.
+
+Drei Disziplinen, eine Grundhaltung: Bedeutung entsteht nicht im Ding,
+sondern in der Relation.
+
+== Technische Redaktion
+
+Kontextsensitive Information. Embedded Assistance. Minimalismus nach Carroll.
+Jede gute Dokumentation fragt: Wer steht hier gerade vor welchem Problem —
+und welche Information braucht er jetzt, an dieser Stelle, in dieser Situation?
+
+== UX und Service Design
+
+Jobs to Be Done. Behavioral Economics. COM-B. Menschen handeln, weil sie
+können, wollen und dürfen. Alle drei Bedingungen liegen im Kontext,
+nicht im Nutzer selbst.
+
+== Docs-as-Code
+
+Antora, AsciiDoc, Vale, GitHub Actions. Dokumentation wird wie Software
+gebaut, geprüft, versioniert und ausgeliefert. Disziplin schlägt Vorsatz.

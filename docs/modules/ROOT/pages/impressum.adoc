@@ -1,0 +1,32 @@
+= Impressum
+
+[NOTE]
+====
+Platzhalter. Vor Veröffentlichung mit den korrekten Pflichtangaben gemäß
+§ 5 TMG (Deutschland) ergänzen.
+====
+
+== Anbieterin
+
+Nilüfer Lian Keller +
+[Straße, Hausnummer] +
+[PLZ, Ort] +
+Deutschland
+
+== Kontakt
+
+E-Mail: [info@example.com]
+
+== Verantwortlich für den Inhalt
+
+Nilüfer Lian Keller, Anschrift wie oben.
+
+== Haftungsausschluss
+
+Die Inhalte dieser Website wurden mit größtmöglicher Sorgfalt erstellt.
+Für die Richtigkeit, Vollständigkeit und Aktualität der Inhalte kann
+jedoch keine Gewähr übernommen werden.
+
+Diese Website enthält Verweise auf externe Websites Dritter, auf deren
+Inhalte ich keinen Einfluss habe. Für diese fremden Inhalte ist stets
+der jeweilige Anbieter oder Betreiber verantwortlich.

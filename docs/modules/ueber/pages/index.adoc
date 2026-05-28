@@ -1,0 +1,25 @@
+= Über
+:description: Profil, Qualifikationen, Kontakt.
+
+== Profil
+
+Nilüfer ] [ Lian Keller, Frankfurt am Main.
+Technische Redakteurin mit Schwerpunkt Software, fundiertem UX-
+und Service-Design-Hintergrund.
+
+== Qualifikationen
+
+* Technische Redakteurin (tekom) — Professional Level, Anwendungsvertiefung Software (April 2026)
+* [weitere Stationen, Zertifikate]
+
+== Sprachen
+
+* Deutsch — Muttersprache
+* English — fluent
+* [weitere]
+
+== Kontakt
+
+E-Mail: [info@example.com] +
+LinkedIn: [Profil] +
+GitHub: https://github.com/SeeRose

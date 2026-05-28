@@ -1,0 +1,10 @@
+= Arbeiten
+:description: Ausgewählte Case Studies aus Technischer Redaktion, UX und Service Design.
+
+Eine Auswahl realer Projekte. Jede Case Study folgt derselben Struktur:
+Problem, Vorgehen, Artefakte, Ergebnis. So bleibt die Arbeit vergleichbar
+und die Methodik sichtbar.
+
+== Fallstudien
+
+* xref:beispiel-projekt.adoc[Beispiel-Projekt] — Vorlage und Demonstration der Struktur

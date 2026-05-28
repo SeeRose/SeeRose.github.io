@@ -1,0 +1,17 @@
+extends: existence
+message: "Füllwort '%s' — meistens streichbar ohne Bedeutungsverlust."
+level: warning
+ignorecase: true
+tokens:
+  - eigentlich
+  - im Grunde
+  - im Prinzip
+  - durchaus
+  - durchwegs
+  - natürlich
+  - selbstverständlich
+  - schlichtweg
+  - einfach mal
+  - irgendwie
+  - quasi
+  - sozusagen

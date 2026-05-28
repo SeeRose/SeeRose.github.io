@@ -1,0 +1,24 @@
+= Nilüfer ] [ Lian Keller
+:description: Technische Redaktion an der Schnittstelle von UX und Service Design.
+
+[.lead]
+Ich arbeite dort, wo Nutzer, Kontext und Schnittstelle untrennbar werden.
+
+== Was ich mache
+
+Technische Redaktion auf tekom-Professional-Level, mit Schwerpunkt Software.
+UX und Service Design als methodisches Rückgrat.
+Docs-as-Code als Handwerk.
+
+== Wo es weitergeht
+
+* xref:arbeiten:index.adoc[Arbeiten] — ausgewählte Case Studies
+* xref:bibliothek:index.adoc[Bibliothek] — Schreibproben und Dokumentationsmuster
+* xref:prozess:index.adoc[Prozess] — die Methoden, mit denen ich arbeite
+* xref:ueber:index.adoc[Über] — Profil, Qualifikationen, Kontakt
+
+== Über die Marke
+
+UICON steht für _User in Context_. Die Klammern ] [ markieren den Raum,
+in dem Bedeutung entsteht — die Stelle, an der ein Nutzer einer Schnittstelle
+in einer konkreten Situation begegnet.

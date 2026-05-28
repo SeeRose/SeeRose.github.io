@@ -1,0 +1,46 @@
+# Style- und Syntaxprüfung bei jedem Pull Request.
+# Vale erzwingt deine eigenen Stilregeln, asciidoctor warnt bei Syntaxfehlern.
+
+name: Lint
+
+on:
+  pull_request:
+    paths:
+      - 'docs/**'
+      - '.vale.ini'
+      - 'styles/**'
+
+jobs:
+  vale:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Vale
+        uses: errata-ai/vale-action@reviewdog
+        with:
+          files: docs
+          fail_on_error: true
+          version: 3.4.2
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+  asciidoctor-syntax:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.2'
+
+      - name: Install asciidoctor
+        run: gem install asciidoctor
+
+      - name: Check syntax
+        run: |
+          find docs -name '*.adoc' -print0 | \
+            xargs -0 -I{} asciidoctor --safe-mode=server --failure-level=WARN -o /dev/null {}

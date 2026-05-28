@@ -1,0 +1,35 @@
+# Antora-Playbook für das Portfolio.
+# Dieses Dokument steuert, wie aus den AsciiDoc-Quellen die fertige Website wird.
+
+site:
+  title: "Nilüfer ] [ Lian Keller — Portfolio"
+  # Diese URL musst du anpassen, sobald du eine eigene Domain hast oder
+  # weißt, unter welcher GitHub-Pages-URL die Site läuft.
+  # Beispiel ohne eigene Domain: https://seerose.github.io/portfolio
+  url: https://example.com
+  start_page: portfolio::index.adoc
+
+content:
+  sources:
+    - url: ./
+      branches: HEAD
+      start_paths: docs
+
+# Standard-UI von Antora. Solange du noch kein eigenes UICON-UI-Bundle hast,
+# bleibt diese URL stehen. Sobald dein UI-Bundle steht, ersetzt du die URL durch:
+#   https://github.com/SeeRose/portfolio-ui/releases/latest/download/ui-bundle.zip
+ui:
+  bundle:
+    url: https://gitlab.com/antora/antora-ui-default/-/jobs/artifacts/HEAD/raw/build/ui-bundle.zip?job=bundle-stable
+    snapshot: true
+
+asciidoc:
+  attributes:
+    # Die @-Suffixe machen die Attribute überschreibbar pro Seite.
+    source-highlighter: highlight.js@
+    experimental: true@
+    idprefix: ''
+    idseparator: '-'
+
+output:
+  dir: ./build/site

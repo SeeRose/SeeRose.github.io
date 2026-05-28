@@ -1,0 +1,49 @@
+= Beispiel-Projekt: IA-Refactor für ein Onboarding
+:domaene: Information Architecture, Embedded Help
+:rolle: Lead Technical Writer
+:zeitraum: 2025
+:methoden: JTBD, Card Sorting, Minimalismus nach Carroll
+:artefakte: IA-Skizze, Vorher-Nachher, Sample
+:description: Vorlage für eine Case Study — kopierbar als Skelett für neue Einträge.
+
+[NOTE]
+====
+Diese Seite ist eine Vorlage. Kopiere sie für jede neue Case Study, ersetze
+die Attribute oben und die Abschnitte unten. Lösche dann diesen Hinweis.
+====
+
+== Kontext
+
+Wer war die Auftraggeberin, in welcher Phase, mit welcher Software,
+mit welchen Nutzergruppen? Drei bis fünf Sätze, die das Setting erklären.
+
+== Problem
+
+Was hat nicht funktioniert, und wofür war das ein Problem? Möglichst
+konkret. Wenn vorhanden, Zahlen oder Zitate aus Nutzerinterviews.
+
+== Vorgehen
+
+In welcher Reihenfolge welche Methode, mit welcher Begründung?
+Wer war beteiligt? Welche Annahmen wurden getestet?
+
+. Discovery: ...
+. Card Sorting mit ...
+. IA-Entwurf ...
+. Embedded Help eingebaut ...
+. Messung gegen ...
+
+== Ergebnis
+
+Was hat sich messbar verändert? Was lässt sich nicht messen, aber
+beobachten? Welche Trade-offs blieben?
+
+== Artefakte
+
+* IA-Skizze (Vorher/Nachher)
+* Beispielseite aus dem Embedded-Help-System
+* Auszug aus dem Card-Sorting-Protokoll
+
+== Reflexion
+
+Was würde ich heute anders machen? Was hat sich bewährt?

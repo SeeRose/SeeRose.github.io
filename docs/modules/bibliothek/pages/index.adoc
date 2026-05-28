@@ -1,0 +1,11 @@
+= Bibliothek
+:description: Schreibproben aus User Guides, Konzeptdokumentationen, API-Referenz und Embedded Help.
+
+Eine Auswahl kurzer, zitierbarer Stücke. Jedes Beispiel zeigt eine
+konkrete Schreibentscheidung im Kontext.
+
+[TIP]
+====
+Hier erst sammeln, später kuratieren. Drei bis fünf gut gewählte Proben
+schlagen zwanzig durchschnittliche.
+====
