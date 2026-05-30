@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="index">
+  <title>DITA-Test</title>
+  <conbody>
+    <p>Dies ist mein erstes DITA-Topic.</p>
+  </conbody>
+</concept>
